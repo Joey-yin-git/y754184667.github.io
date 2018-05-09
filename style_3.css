@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img {
+
+    margin: 50px 20px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #eaeaea;
+    text-align: center;
+
+}
+h1 {
+    padding: 20px;
+    background: #868686;
+    color: #fff;
+
+
+}
+.basic,
+.contact,
+.practice,
+.ability,
+.education {
+    padding: 0 10px 0 0;
+    overflow: hidden;
+    border-bottom: 1px solid #b8b8b8;
+}
+.section_tilte  {
+    padding-left: 25px;
+    float: left;    
+    width: 150px;
+    height: 150px;
+    border-bottom: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    background-color: #c1c1c1;
+}
+.section_tilte h2 {
+    color: #494949;
+}
+.body_info1 {
+    overflow: hidden;
+
+}
+li {
+    display: inline-block;}
+ul {
+    position: relative;
+    float: left;
+    margin-right: 40px;
+    padding: 5px;
+
+}
+.body_info2{
+    overflow: hidden;
+}
+.body_info2 div{
+    padding: 5px;
+}
+h4 {
+    display: inline-block;
+    float: left;
+}
+ul li:nth-of-type(odd) {
+    font-weight:bold;
+    margin-right: 5px;
+}
+ul li:nth-of-type(even) {
+    margin-right: 20px;
+}
