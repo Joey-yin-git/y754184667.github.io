@@ -1,2 +1,2 @@
 # y754184667.github.io
-啦啦博客
+[demo](https://y754184667.github.io/resume.html)
